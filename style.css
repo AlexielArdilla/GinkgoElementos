@@ -1,0 +1,56 @@
+body {
+}
+
+.logo {
+  background-color: #e69081;
+}
+
+.logo img {
+  /*height: 175px;*/
+  width: 30%;
+  align-content: flex-end;
+  background-color: #e69081;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feli_banner{
+
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+
+}
+
+.pie{
+
+text-align: center;
+color: whitesmoke;
+background-color: #cb2a42;
+padding: 3rem;
+
+}
+
+.container-fluid{
+
+    padding:0;
+    margin: 0;
+
+}
+
+.bg-custom{
+
+background-color: #cb2a42;
+
+}
+
+.col-md-3{
+
+    text-align: center;
+}
+
+h5{
+
+    padding-top: 1rem;
+}
